@@ -1,0 +1,2 @@
+include src/corpus/*
+include src/corpus/*.txt
