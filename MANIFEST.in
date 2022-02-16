@@ -1,2 +1,2 @@
-include src/corpus/*
-include src/corpus/*.txt
+include src/pubwords/*
+include src/pubwords/*.txt
