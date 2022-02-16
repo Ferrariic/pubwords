@@ -7,3 +7,6 @@ def medical_words() -> list:
         file_contents = med.read()
     med_words = file_contents.split('\n')
     return med_words
+
+med_words = medical_words()
+print(med_words)
