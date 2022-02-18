@@ -1,6 +1,5 @@
 # Pubwords
 ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/pubwords?style=plastic)
-![PyPI - Wheel](https://img.shields.io/pypi/wheel/pubwords?style=plastic)
 ![GitHub](https://img.shields.io/github/license/Ferrariic/pubwords?style=plastic)
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/ferrariicosrs?style=social)
